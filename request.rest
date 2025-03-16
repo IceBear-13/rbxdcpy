@@ -1,0 +1,14 @@
+POST https://catalog.roblox.com/v1/catalog/items/details
+Content-Type: application/json
+
+{
+  "items": [
+    {
+      "itemType": "Asset",
+      "id": 86498113
+    }
+  ]
+}
+
+###
+GET https://catalog.roblox.com/v1/catalog/items/7151096430/details?itemType=Asset
