@@ -1,4 +1,5 @@
 discord.py
 aiohttp
 requests
-discord.ext
+pandas
+python-dotenv
